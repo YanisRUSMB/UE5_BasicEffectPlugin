@@ -1,0 +1,15 @@
+# Compilé — jamais sur Git
+Binaries/
+Intermediate/
+Saved/
+Build/
+
+# Rider / VS
+.idea/
+.vs/
+*.sln
+
+# Unreal
+*.VC.db
+*.opensdf
+*.opendb
